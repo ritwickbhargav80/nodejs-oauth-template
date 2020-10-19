@@ -1,0 +1,103 @@
+[2020-10-18T12:02:12.095] [INFO] Wrong endpoint request - / has been hit
+[2020-10-18T13:20:50.657] [INFO] Wrong endpoint request - /api/v/ has been hit
+[2020-10-18T21:55:52.535] [INFO] Wrong endpoint request - / has been hit
+[2020-10-18T22:36:14.325] [INFO] Wrong endpoint request - /auth/google has been hit
+[2020-10-18T22:36:23.411] [INFO] Wrong endpoint request - /auth/google has been hit
+[2020-10-18T22:36:50.712] [INFO] Wrong endpoint request - /auth/google has been hit
+[2020-10-18T22:48:55.666] [INFO] Wrong endpoint request - /api/v1/auth/google has been hit
+[2020-10-18T23:34:10.067] [INFO] Wrong endpoint request - /auth/google/callback has been hit
+[2020-10-18T23:34:21.076] [INFO] Wrong endpoint request - /auth/v1/google/callback has been hit
+[2020-10-18T23:35:45.840] [INFO] Wrong endpoint request - /auth/v1/google has been hit
+[2020-10-18T23:44:55.663] [ERROR] Logs from sendErrors middleware - { message: 'Bad Request', status: 500, error: true }
+[2020-10-18T23:44:55.665] [ERROR] Logs from sendErrors middleware - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (E:\starter\node_modules\passport-oauth2\lib\strategy.js:358:12)
+    at Strategy.OAuth2Strategy._createOAuthError (E:\starter\node_modules\passport-oauth2\lib\strategy.js:405:16)
+    at E:\starter\node_modules\passport-oauth2\lib\strategy.js:175:45
+    at E:\starter\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (E:\starter\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (E:\starter\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1103:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-10-18T23:49:47.128] [ERROR] Logs from sendErrors middleware - { message: 'Bad Request', status: 500, error: true }
+[2020-10-18T23:49:47.130] [ERROR] Logs from sendErrors middleware - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (E:\starter\node_modules\passport-oauth2\lib\strategy.js:358:12)
+    at Strategy.OAuth2Strategy._createOAuthError (E:\starter\node_modules\passport-oauth2\lib\strategy.js:405:16)
+    at E:\starter\node_modules\passport-oauth2\lib\strategy.js:175:45
+    at E:\starter\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (E:\starter\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (E:\starter\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1103:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-10-18T23:51:14.538] [ERROR] Logs from sendErrors middleware - { message: 'Bad Request', status: 500, error: true }
+[2020-10-18T23:51:14.539] [ERROR] Logs from sendErrors middleware - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (E:\starter\node_modules\passport-oauth2\lib\strategy.js:358:12)
+    at Strategy.OAuth2Strategy._createOAuthError (E:\starter\node_modules\passport-oauth2\lib\strategy.js:405:16)
+    at E:\starter\node_modules\passport-oauth2\lib\strategy.js:175:45
+    at E:\starter\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (E:\starter\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (E:\starter\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1103:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-10-18T23:51:26.051] [ERROR] Logs from sendErrors middleware - { message: 'Bad Request', status: 500, error: true }
+[2020-10-18T23:51:26.051] [ERROR] Logs from sendErrors middleware - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (E:\starter\node_modules\passport-oauth2\lib\strategy.js:358:12)
+    at Strategy.OAuth2Strategy._createOAuthError (E:\starter\node_modules\passport-oauth2\lib\strategy.js:405:16)
+    at E:\starter\node_modules\passport-oauth2\lib\strategy.js:175:45
+    at E:\starter\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (E:\starter\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (E:\starter\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1103:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-10-18T23:57:02.819] [INFO] Wrong endpoint request - /api/v1/auth/google/callback has been hit
+[2020-10-18T23:57:19.337] [INFO] Wrong endpoint request - /api/v1/auth/google/callback has been hit
+[2020-10-18T23:57:54.372] [ERROR] Logs from sendErrors middleware - { message: 'Bad Request', status: 500, error: true }
+[2020-10-18T23:57:54.374] [ERROR] Logs from sendErrors middleware - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (E:\starter\node_modules\passport-oauth2\lib\strategy.js:358:12)
+    at Strategy.OAuth2Strategy._createOAuthError (E:\starter\node_modules\passport-oauth2\lib\strategy.js:405:16)
+    at E:\starter\node_modules\passport-oauth2\lib\strategy.js:175:45
+    at E:\starter\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (E:\starter\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (E:\starter\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1103:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-10-19T00:01:09.428] [ERROR] Logs from sendErrors middleware - { message: 'Bad Request', status: 500, error: true }
+[2020-10-19T00:01:09.433] [ERROR] Logs from sendErrors middleware - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (E:\starter\node_modules\passport-oauth2\lib\strategy.js:358:12)
+    at Strategy.OAuth2Strategy._createOAuthError (E:\starter\node_modules\passport-oauth2\lib\strategy.js:405:16)
+    at E:\starter\node_modules\passport-oauth2\lib\strategy.js:175:45
+    at E:\starter\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (E:\starter\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (E:\starter\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1103:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-10-19T00:12:51.620] [ERROR] Logs from sendErrors middleware - { message: 'Bad Request', status: 500, error: true }
+[2020-10-19T00:12:51.625] [ERROR] Logs from sendErrors middleware - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (E:\starter\node_modules\passport-oauth2\lib\strategy.js:358:12)
+    at Strategy.OAuth2Strategy._createOAuthError (E:\starter\node_modules\passport-oauth2\lib\strategy.js:405:16)
+    at E:\starter\node_modules\passport-oauth2\lib\strategy.js:175:45
+    at E:\starter\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (E:\starter\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (E:\starter\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1103:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-10-19T00:12:53.085] [INFO] Wrong endpoint request - /favicon.ico has been hit
+[2020-10-19T00:22:12.234] [ERROR] Logs from sendErrors middleware - { message: 'Bad Request', status: 500, error: true }
+[2020-10-19T00:22:12.235] [ERROR] Logs from sendErrors middleware - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (E:\starter\node_modules\passport-oauth2\lib\strategy.js:358:12)
+    at Strategy.OAuth2Strategy._createOAuthError (E:\starter\node_modules\passport-oauth2\lib\strategy.js:405:16)
+    at E:\starter\node_modules\passport-oauth2\lib\strategy.js:175:45
+    at E:\starter\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (E:\starter\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (E:\starter\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1103:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-10-19T00:30:53.210] [INFO] Wrong endpoint request - /dashboard has been hit
+[2020-10-19T11:12:19.792] [INFO] Wrong endpoint request - /api/v1/logout has been hit
